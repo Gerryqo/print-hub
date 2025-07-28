@@ -1,0 +1,5 @@
+qrcode>=7.0
+Pillow>=10.0
+pywin32>=300
+python-dotenv>=1.0
+requests>=2.0
